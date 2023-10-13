@@ -70,7 +70,3 @@ while(1){
     i++;
 }
 
-for(;;){
-    console.log('1')
-
-}
